@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f5fa;
+}
+
+.tutorial-main {
+    display: flex;
+    flex-direction: row;
+}
+.body {
+    flex: 2 1 60em;
+    padding: 0 1em;
+    background-color: orange;
+}
+.sidebar {
+    flex: .5 0 10em;
+    padding: 0 1em;
+    background-color: #f0f0f0;
+}
+.sidebar a {
+    color: #0000ff !important;
+    text-decoration: none;
+}
