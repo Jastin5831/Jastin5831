@@ -13,6 +13,9 @@
     ![Stars](https://img.shields.io/github/stars/Jastin5831?label=Stars&style=social)
     ![Followers](https://img.shields.io/github/followers/Jastin5831?label=Followers&style=social)
 </div>
+<div align='center'>
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Jastin5831&color=grey">
+</div>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jastin5831&theme=tokyonight" alt="Profile Details"/>
