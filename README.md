@@ -15,8 +15,11 @@
 
 </div>
 
-<p align="center">
+<div>
     <img id="preview" src="https://komarev.com/ghpvc/?username=Jastin5831&color=grey">
+</div>
+
+<p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jastin5831&theme=tokyonight" alt="Profile Details"/>
 </p>
 
@@ -32,7 +35,7 @@
 
 | Overview | In Detail | Repositories |
 |--------|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/repos?time_range=all_time&include_private=true&theme=synthwaves) |
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
 
 ---
 
@@ -42,11 +45,6 @@
 ![Jastin5831 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jastin5831&theme=vue) 
 
 ---
-
-
-| Wakatime |
-|----------|
-| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Jastin5831&theme=transparent&show_owner=true) |
 
 </p>
 
