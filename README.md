@@ -1,4 +1,3 @@
-
 <h1 align="center">
     Hi there, I'm Md. Almas Ali! 
     <img src="https://raw.githubusercontent.com/Jastin5831/Jastin5831/master/static/wave.gif" width="30px" height="30px">
@@ -8,34 +7,46 @@
 </p>
 
 <div align="center">
-    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJastin5831&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
-    ![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
-    ![Stars](https://img.shields.io/github/stars/Jastin5831?label=Stars&style=social)
-    ![Followers](https://img.shields.io/github/followers/Jastin5831?label=Followers&style=social)
-</div>
-<div align='center'>
-    <img id="preview" src="https://komarev.com/ghpvc/?username=Jastin5831&color=grey">
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJastin5831&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
+![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
+![Stars](https://img.shields.io/github/stars/Jastin5831?label=Stars&style=social)
+![Followers](https://img.shields.io/github/followers/Jastin5831?label=Followers&style=social)
+
 </div>
 
 <p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Jastin5831&color=grey">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jastin5831&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 <p align="center">
 
-    ---
+---
 
-    | Overview | In Detail |
-    |--------|----------|
-    | ![Contributions](https://streak-stats.demolab.com?user=Jastin5831&_border=true&theme=dark&hide_border=true&theme=react) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=dark&include_all_commits=50) |
+| Overview | In Detail |
+|--------|----------|
+| ![Contributions](https://streak-stats.demolab.com?user=Almas-Ali&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 
-    ---
+---
 
-    | Overview | In Detail | Repositories |
-    |--------|----------|-------------------|
-    | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&layout=compact&langs_count=10&theme=dark) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/repos?time_range=all_time&include_private=true&theme=synthwaves) |
+| Overview | In Detail | Repositories |
+|--------|----------|-------------------|
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
 
-    ---
+---
+
+</p>
+
+
+![Almas-Ali Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almas-Ali&theme=vue) 
+
+---
+
+
+| Wakatime | Hire me |
+|----------|---------|
+| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true) | ![dev is here](static/dev-is-here.gif) |
 
 </p>
 
@@ -100,22 +111,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 <hr>
-
-
-<!-- ## Connect with me:
-
-[Check my portfolio website](https://almasali.net "Almas Ali Portfolio") or check my other social media account here.
-
-<p align="left">
-<a href="https://dev.to/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://twitter.com/almasali22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="almasali22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-almasali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-almasali" height="30" width="40" /></a>
-<a href="https://fb.com/md.almasali.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.almasali.0" height="30" width="40" /></a>
-<a href="https://instagram.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="almaspr3" height="30" width="40" /></a>
-</p> -->
 
 <hr>
 
