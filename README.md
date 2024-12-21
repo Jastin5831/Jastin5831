@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there, I'm Md. Almas Ali! 
+    Hi there, I'm Jastin! 
     <img src="https://raw.githubusercontent.com/Jastin5831/Jastin5831/master/static/wave.gif" width="30px" height="30px">
 </h1>
 <p align="center">
@@ -107,8 +107,6 @@
     alt="docker" width="40" height="40" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-<hr>
 
 <hr>
 <img src="https://github-profile-trophy.vercel.app/?username=Jastin5831" alt="Jastin5831" />
