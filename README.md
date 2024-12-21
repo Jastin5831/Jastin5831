@@ -26,27 +26,27 @@
 
 | Overview | In Detail |
 |--------|----------|
-| ![Contributions](https://streak-stats.demolab.com?user=Almas-Ali&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+| ![Contributions](https://streak-stats.demolab.com?user=Jastin5831&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 
 ---
 
 | Overview | In Detail | Repositories |
 |--------|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/repos?time_range=all_time&include_private=true&theme=synthwaves) |
 
 ---
 
 </p>
 
 
-![Almas-Ali Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almas-Ali&theme=vue) 
+![Jastin5831 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jastin5831&theme=vue) 
 
 ---
 
 
-| Wakatime | Hire me |
-|----------|---------|
-| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true) | ![dev is here](static/dev-is-here.gif) |
+| Wakatime |
+|----------|
+| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Jastin5831&theme=transparent&show_owner=true) |
 
 </p>
 
