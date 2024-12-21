@@ -24,13 +24,13 @@
 
     | Overview | In Detail |
     |--------|----------|
-    | ![Contributions](https://streak-stats.demolab.com?user=Jastin5831&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+    | ![Contributions](https://streak-stats.demolab.com?user=Jastin5831&_border=true&theme=dark&hide_border=true&theme=react) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=dark&include_all_commits=50) |
 
     ---
 
     | Overview | In Detail | Repositories |
     |--------|----------|-------------------|
-    | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/repos?time_range=all_time&include_private=true&theme=synthwaves) |
+    | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&layout=compact&langs_count=10&theme=dark) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Jastin5831/repos?time_range=all_time&include_private=true&theme=synthwaves) |
 
     ---
 
@@ -120,7 +120,7 @@
         <a href="https://github.com/Jastin5831">
             <img id="preview" src="https://komarev.com/ghpvc/?username=Jastin5831&color=grey">
             <br/><br/>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=dark&include_all_commits=50"/>
+            <img height="180em" src="   "/>
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&layout=compact&langs_count=10&theme=dark"/>
             <img src="https://streak-stats.demolab.com?user=Jastin5831&_border=true&theme=dark&hide_border=true&theme=react" style="width: 65%" />
             <img src="https://github-profile-trophy.vercel.app/?username=Jastin5831" alt="Jastin5831" />
