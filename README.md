@@ -2,9 +2,14 @@
     Hi there, I'm Jastin! 
     <img src="https://raw.githubusercontent.com/Jastin5831/Jastin5831/master/static/wave.gif" width="30px" height="30px">
 </h1>
+
 <p align="center">
-    <a href="https://github.com/Jastin5831"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+    <a href="https://github.com/Jastin5831"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;FullStack+Developer;Next+Laravel+Expert" alt="Typing SVG" /></a>
 </p>
+
+<div align="center  ">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Jastin5831&color=grey">
+</div>
 
 <div align="center">
 
@@ -15,13 +20,10 @@
 
 </div>
 
-<div align="center  ">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=Jastin5831&color=grey">
-</div>
-
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jastin5831&theme=tokyonight" alt="Profile Details"/>
 </p>
+
 
 <p align="center">
 
@@ -45,11 +47,8 @@
 ![Jastin5831 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jastin5831&theme=vue) 
 
 ---
-
 </p>
 
-
-![Jastin5831 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jastin5831&theme=vue) 
 
 ---
 
@@ -72,8 +71,6 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img
     src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="flask" width="40"
     height="40" /> </a>
