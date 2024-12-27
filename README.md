@@ -34,8 +34,8 @@
 
 ---
 
-| Overview |
-
+| Overview | In detail |
+|----------|-----------|
 | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) |
 
 ---
