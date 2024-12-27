@@ -28,15 +28,15 @@
 
 ---
 
-| Overview | In Detail |
-|--------|----------|
-| ![Contributions](https://streak-stats.demolab.com?user=Jastin5831&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+| Overview |
+|--------|
+| ![Contributions](https://streak-stats.demolab.com?user=Jastin5831&theme=tokyonight) |  |
 
 ---
 
-| Overview | In Detail | Repositories |
-|--------|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
+| Overview  | In detail |
+|----------|-------------------|
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 
 ---
 
