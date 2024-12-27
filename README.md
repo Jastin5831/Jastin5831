@@ -28,15 +28,15 @@
 
 ---
 
-| Overview |
-|--------|
-| ![Contributions](https://streak-stats.demolab.com?user=Jastin5831&theme=tokyonight) |  |
+| Overview | In detail |
+
+| ![Contributions](https://streak-stats.demolab.com?user=Jastin5831&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 
 ---
 
-| Overview  | In detail |
-|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin5831&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+| Overview |
+
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin5831&theme=tokyonight) |
 
 ---
 
