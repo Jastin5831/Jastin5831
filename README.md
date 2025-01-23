@@ -35,7 +35,7 @@
 
 |  Language Overview  | Monthly Overview |
 |---------------------|------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin9958&theme=tokyonight) |![Jastin9958 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jastin958&theme=vue) |
+| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Jastin9958&theme=tokyonight) |![Jastin9958 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jastin9958&theme=vue) |
 
 ---
 
