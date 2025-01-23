@@ -30,7 +30,7 @@
 
 | Overview | In detail |
 |----------|-----------|
-|![Contributions] (https://streak-stats.demolab.com?user=Jastin9958&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin9958&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
+| ![Contributions](https://streak-stats.demolab.com?user=Jastin9958&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Jastin9958&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
 ---
 
 |  Language Overview  | Monthly Overview |
