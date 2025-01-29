@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/Jastin9958"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;FullStack+Engineer;Blockchain+Developer" alt="Typing SVG" /></a>
+    <a href="https://github.com/Kooky9958"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;FullStack+Engineer;Blockchain+Developer" alt="Typing SVG" /></a>
 </p>
 
 <div align="center  ">
